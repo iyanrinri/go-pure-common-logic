@@ -1,0 +1,15 @@
+.vscode
+.idea
+.env
+main
+
+node_modules
+dist
+build
+.DS_Store
+*.log
+coverage
+*.tmp
+*.bak
+*.swp
+Thumbs.db   
